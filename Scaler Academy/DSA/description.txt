@@ -1,4 +1,4 @@
-### Data Structures and Algorithms Certification Summary
+### Data Structures and Algorithms Certification:
 
 I have successfully completed an in-depth course on **Data Structures and Algorithms (DSA)**, covering both fundamental and advanced topics, through **Scaler Academy**. 
   This course provided a comprehensive understanding of key concepts essential for building efficient and optimized software solutions. 
