@@ -1,0 +1,13 @@
+### SQL and Database Certification 
+
+I have successfully completed an in-depth course on **SQL and Databases** through **Scaler Academy** and received certification for my accomplishments.
+This course provided comprehensive knowledge of SQL, relational databases, and key database concepts, with a focus on practical skills for real-world applications.
+
+Key topics covered in the course include:
+
+- **SQL Commands**: Mastered essential SQL commands, including `SELECT`, `INSERT`, `UPDATE`, `DELETE`, and `JOIN`. Gained proficiency in complex queries, filtering data, aggregation, and subqueries.
+- **Database Design**: Learned to design efficient database schemas, including creating tables, defining relationships, and ensuring data integrity with constraints such as primary keys, foreign keys, and indexes.
+- **Working with SQL Files**: Gained hands-on experience in importing, exporting, and managing SQL files for database operations, enabling seamless data manipulation and migration.
+- **Normalization and Optimization**: Developed an understanding of database normalization principles to minimize redundancy and optimize query performance.
+
+Through this course, I strengthened my ability to work with SQL databases, perform data analysis, and create well-structured database designs that support efficient and scalable applications.
