@@ -1,0 +1,20 @@
+### AI Tools and ChatGPT Workshop Summary
+
+I attended a comprehensive workshop on AI tools and ChatGPT organized by **be10x**, where I learned to utilize a variety of cutting-edge platforms to enhance productivity, research, and creative processes. During the workshop, I explored and gained practical experience with the following tools:
+
+- **Perplexity AI**: A powerful AI-driven search engine for gathering and understanding information from a variety of sources.
+- **Gamma**: A creative platform for generating and visualizing interactive presentations with the help of AI.
+- **Suno**: An AI tool for generating high-quality music, soundtracks, and audio content.
+- **ChatGPT**: Enhanced my proficiency in using ChatGPT for natural language processing tasks, including generating content, automating workflows, and enhancing customer support.
+- **Archive.ph / Web Archive**: Learned how to access and use web archives to retrieve historical content from websites.
+- **Sci-Hub**: Utilized this platform to access scientific papers and research articles, bypassing paywalls.
+- **Merlin (Chrome Extension)**: An AI-powered research assistant to help with finding and analyzing online content efficiently.
+- **AnySummary**: A tool for summarizing lengthy texts and articles in a concise and readable format.
+- **LibGen**: Explored this resource for finding academic books, research papers, and other educational content.
+- **Canva**: Improved my graphic design skills using Canva’s AI-enhanced templates and design tools for visual content creation.
+- **Yoodli**: Learned how to use this AI-driven tool for improving public speaking and communication skills.
+- **Gemini (Google)**: Gained insights into Google's next-generation AI tools for data analysis and content creation.
+- **BlackBox AI**: Mastered this tool for software development, allowing me to write and debug code with the help of AI.
+- **Claude AI**: Discovered this conversational AI for assisting in problem-solving and creative tasks.
+
+This workshop provided me with hands-on experience in leveraging AI tools for research, content creation, programming, and data analysis, enhancing both my productivity and creativity across various domains.
